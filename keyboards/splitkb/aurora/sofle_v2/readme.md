@@ -9,7 +9,7 @@ Hardware Availability: [splitkb.com](https://splitkb.com).
 
 Make example for this keyboard (after setting up your build environment):
 
-    make splitkb/aurora/sofle_v2/rev1:default
+    make splitkb/aurora/sofle_v2/rev1:default CONVERT_TO=liatris
 
 Example of flashing this keyboard:
 
